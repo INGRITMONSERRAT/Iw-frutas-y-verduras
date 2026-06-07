@@ -14,7 +14,7 @@ Aplicación móvil desarrollada en Flutter para la venta de frutas y verduras.
 
 - Flutter
 - Dart
-- 
+  
 ## Instalación
 
 1. Descargar o clonar el repositorio.
